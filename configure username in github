@@ -1,0 +1,7 @@
+git --version 
+
+# confiqure the git user name and email
+
+git config --global user.name "Your Name"
+
+git config --global user.email "youremail"
